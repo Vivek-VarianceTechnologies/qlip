@@ -1,0 +1,2 @@
+# qlip
+mobile development
